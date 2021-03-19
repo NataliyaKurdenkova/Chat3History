@@ -1,0 +1,8 @@
+[ asd1 ]: fhfhffh
+[ zzzxxxxcccc ]: xxcbc
+[ zzzxxxxcccc ]: vbxcbc
+[ zzzxxxxcccc ] to [ asd1 ]: qqqqqqq
+[ nick1 ]: hello
+[ nick1 ] to [ asd1 ]: hello asd!
+[ asd1 ] to [ nick1 ]: hello nick1
+[ asd1 ]: hello world!
